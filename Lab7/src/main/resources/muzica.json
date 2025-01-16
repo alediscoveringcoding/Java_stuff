@@ -1,0 +1,19 @@
+{
+  "instrumente_muzicale": [
+    {
+      "tip": "Chitara",
+      "producator": "Fender",
+      "pret": 1500,
+      "tip_chitara": "ELECTRICA",
+      "nr_corzi": 6
+    },
+    {
+      "tip": "SetTobe",
+      "producator": "Pearl",
+      "pret": 2500,
+      "tip_tobe": "ACUSTICE",
+      "nr_tobe": 5,
+      "nr_cinele": 2
+    }
+  ]
+}
