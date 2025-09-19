@@ -1,3 +1,3 @@
 # Teme_Java
 
-mai jos pe fiecare branch se gasesc exercitiile rezolvate de la simplu la complex
+Every branch contains a specific lab that is being solved from simple to complex (lab1-lab11)
